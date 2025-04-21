@@ -1,0 +1,13 @@
+Start test
+Start Test
+Current url https://www.saucedemo.com/
+Input user_name
+Input password
+Click login_button
+Good value word
+Current url https://www.saucedemo.com/inventory.html
+Click menu
+Click link about
+Good value url
+Finish test
+Finish test

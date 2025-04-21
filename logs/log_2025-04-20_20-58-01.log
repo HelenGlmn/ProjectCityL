@@ -1,0 +1,253 @@
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:05.665457
+Start name method: select city
+
+End time: 2025-04-20 20:58:45.383373
+End name method: select city
+URL: https://www.citilink.ru/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:45.384014
+Start name method: set value search
+
+End time: 2025-04-20 20:58:50.345597
+End name method: set value search
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:50.346062
+Start name method: select popular button
+
+End time: 2025-04-20 20:58:52.766905
+End name method: select popular button
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:52.767739
+Start name method: input price filter1
+
+End time: 2025-04-20 20:58:54.864706
+End name method: input price filter2
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:54.865568
+Start name method: select shop filter link
+
+End time: 2025-04-20 20:58:55.015387
+End name method: select shop filter link
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:55.015838
+Start name method: set checkbox city filter
+
+End time: 2025-04-20 20:58:55.360623
+End name method: set checkbox city filter
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:55.361315
+Start name method: checkbox zab5min
+
+End time: 2025-04-20 20:58:55.608279
+End name method: checkbox zab5min
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:58:55.627883
+Start name method: radiobutton 5percent
+
+End time: 2025-04-20 20:58:56.014326
+End name method: radiobutton 5percent
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:21.030761
+Start name method: select button apply filter
+
+End time: 2025-04-20 20:59:21.438659
+End name method: select button apply filter
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:36.439908
+Start name method: get product name, price
+
+End time: 2025-04-20 20:59:36.600011
+End name method: get product name, price
+URL: https://www.citilink.ru/catalog/stiralnye-mashiny-s-sushkoi/?ref=mainmenu_set&pf=rating.any%2Cdiscount.any&f=rating.any%2Cavailable.20%2Cavailable.instore%2Cdiscount.price1_5&r=price_filter_group_id%3A41000-45000
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:36.600946
+Start name method: go product card
+
+End time: 2025-04-20 20:59:38.523820
+End name method: go product card
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:53.524517
+Start name method: select full name product
+
+End time: 2025-04-20 20:59:53.614733
+End name method: select full name product
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:53.616031
+Start name method: get product price pc
+
+End time: 2025-04-20 20:59:53.683911
+End name method: get product price pc
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:53.685046
+Start name method: get product price pc
+
+End time: 2025-04-20 20:59:53.736233
+End name method: get product price pc
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:53.779573
+Start name method: add product to basket
+
+End time: 2025-04-20 20:59:53.913391
+End name method: add product to basket
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:53.913858
+Start name method: The product has been added to the cart
+
+End time: 2025-04-20 20:59:55.092701
+End name method: The product has been added to the cart
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:55.093186
+Start name method: select name product
+
+End time: 2025-04-20 20:59:55.118499
+End name method: select name product
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:55.119013
+Start name method: select product price
+
+End time: 2025-04-20 20:59:55.143017
+End name method: select product price
+URL: https://www.citilink.ru/product/stiralnaya-mashina-hyundai-wfd8216-kl-a-front-maks-5kg-temno-seryi-2033037/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:55.175298
+Start name method: select button go basket
+
+End time: 2025-04-20 20:59:56.834846
+End name method: select button go basket
+URL: https://www.citilink.ru/order/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:56.861676
+Start name method: select product name
+
+End time: 2025-04-20 20:59:57.500105
+End name method: select product name
+URL: https://www.citilink.ru/order/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:57.500583
+Start name method: select product price
+
+End time: 2025-04-20 20:59:57.527468
+End name method: select product price
+URL: https://www.citilink.ru/order/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 20:59:57.528359
+Start name method: click finish button
+
+End time: 2025-04-20 21:00:02.871961
+End name method: click finish button
+URL: https://www.citilink.ru/order/
+
+-----
+
+-----
+Test: test1.py::test_1 (call)
+Start time: 2025-04-20 21:00:02.872340
+Start name method: select finish_word
+
+End time: 2025-04-20 21:00:02.919059
+End name method: select finish_word
+URL: https://www.citilink.ru/order/
+
+-----

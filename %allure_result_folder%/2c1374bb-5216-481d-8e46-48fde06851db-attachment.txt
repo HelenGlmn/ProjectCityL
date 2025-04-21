@@ -1,0 +1,15 @@
+Start test
+Start Test 3
+Current url https://www.saucedemo.com/
+Input user_name
+Input password
+Click login_button
+Good value word
+Current url https://www.saucedemo.com/inventory.html
+Click select product 3
+Click cart
+Current url https://www.saucedemo.com/cart.html
+Click select checkout button
+Finish Test 3
+Finish test
+Exit system
